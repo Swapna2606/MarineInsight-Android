@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\2ec72ed897f951c3086833b59b67773242274eff\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\b1eabe956bc97dceddc938055d35b40c76a9f9e6\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\2ec72ed897f951c3086833b59b67773242274eff\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\2ec72ed897f951c3086833b59b67773242274eff\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\2ec72ed897f951c3086833b59b67773242274eff\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\2ec72ed897f951c3086833b59b67773242274eff\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\b1eabe956bc97dceddc938055d35b40c76a9f9e6\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\b1eabe956bc97dceddc938055d35b40c76a9f9e6\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\2ec72ed897f951c3086833b59b67773242274eff\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\2ec72ed897f951c3086833b59b67773242274eff\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\2ec72ed897f951c3086833b59b67773242274eff\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\2ec72ed897f951c3086833b59b67773242274eff\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\2ec72ed897f951c3086833b59b67773242274eff\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\uu\\.android\\build-cache\\b1eabe956bc97dceddc938055d35b40c76a9f9e6\\output\\res\\anim\\design_fab_in.xml"
+    }
+]

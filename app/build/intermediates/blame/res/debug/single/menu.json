@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawermenu.xml",
+        "source": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\src\\main\\res\\menu\\drawermenu.xml"
+    },
+    {
+        "merged": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/app/build/intermediates/res/merged/debug/menu/search.xml",
+        "source": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/app/src/main/res/menu/search.xml"
+    },
+    {
+        "merged": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_menu.xml",
+        "source": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\src\\main\\res\\menu\\fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/app/build/intermediates/res/merged/debug/menu/drawermenu.xml",
+        "source": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/app/src/main/res/menu/drawermenu.xml"
+    },
+    {
+        "merged": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/app/build/intermediates/res/merged/debug/menu/off_fragment_menu.xml",
+        "source": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/app/src/main/res/menu/off_fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\debug\\menu\\off_fragment_menu.xml",
+        "source": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\src\\main\\res\\menu\\off_fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/app/build/intermediates/res/merged/debug/menu/fragment_menu.xml",
+        "source": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/app/src/main/res/menu/fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/TechMuzz/Downloads/SWAPNA/MI/Android/NEW MI MAIN APP/MarineInsight/app/src/main/res/menu/menu_main.xml"
+    }
+]

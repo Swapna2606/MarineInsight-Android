@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
+        "source": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\menu\\off_fragment_menu.xml",
+        "source": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\src\\main\\res\\menu\\off_fragment_menu.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\menu\\fragment_menu.xml",
+        "source": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\src\\main\\res\\menu\\fragment_menu.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\menu\\drawermenu.xml",
+        "source": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\src\\main\\res\\menu\\drawermenu.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\build\\intermediates\\res\\merged\\release\\menu\\search.xml",
+        "source": "E:\\ANDROID\\NEW ANDROID APP\\NEW MI MAIN APP\\MarineInsight\\app\\src\\main\\res\\menu\\search.xml"
+    }
+]

@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+
+        <ImageView
+            android:id="@+id/offthumb"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/content_save"
+            android:padding="5dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"/>
+
+        <TextView
+            android:id="@+id/taskTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:text="TITLE"
+            android:textSize="20dp"
+            android:paddingRight="40dp"/>
+        <TextView
+            android:id="@+id/contentView"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_centerVertical="true"
+
+            android:gravity="left"
+            android:text="CONTENT"
+            android:visibility="invisible"
+            android:textSize="20dp"
+            android:paddingRight="40dp"/>
+        <TextView
+            android:id="@+id/urlView"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_centerVertical="true"
+            android:gravity="left"
+            android:text="URL"
+            android:visibility="invisible"
+            android:textSize="20dp"
+            android:paddingRight="40dp"/>
+
+        <ImageView
+            android:id="@+id/checkBoxTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:src="@android:drawable/ic_menu_delete"
+            android:onClick="onDoneButtonClick"/>
+
+    </RelativeLayout>
+</LinearLayout>

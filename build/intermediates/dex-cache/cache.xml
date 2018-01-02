@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1-d9c831ce844ab2766043638a8a7de77fd166851e.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-e4c13e6a66e8a6972b87273c797f403f2e932fe6.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-11b66fc49cefda888955484c5abfb17e23f3e566.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\picasso-2.5.2-810b91af6515763e6264191e50d1dc9b04f1b8fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-459b47053eed0712195554533f525ee49bfa87ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-c7e6362ca2cea88bc782db5ae53ca92708b77364.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-21459683d91d1946257d0e4f81b85a6233800576.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-603961c21b86ee473d5abbc0d9c50a4c8a592d7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-75e06276083f82789a3c1244060463e08317b088.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-5a30b7ab6427d1714349744ca43fea6d689ac1c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-c4030e9e5f5ba413d19f68b59505618085850ed9.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-2bad21d368cf945c81207218dacac71a4de61b63.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1-0179070d51fd6a1d83841be1a74f8eca7ae41ab4.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-d1fbc25e514ff03c4fbd57a2e0bbc39834bb5441.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-441e077bbb5faaace95ed271deec58a8e125fbd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-c3d10516ef615906444768b3f619eb41d2154e75.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-c2f4d72caa2986e98ceb0dfd86e5d137c6052c88.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-32b775cd4a8cd02165153999d440c84fd4d4574b.jar" />
+    </item>
+    <item
+        jar="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\uu\Desktop\DrawerWithSwipeTabs - Copy\MarineInsight\app\build\intermediates\pre-dexed\release\classes-3a624ad7c3ae2f7bf620482af7855ed8d08be914.jar" />
+    </item>
+
+</items>

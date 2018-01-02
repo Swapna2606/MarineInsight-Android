@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <!--<item android:title="Home"-->
+          <!--android:id="@+id/nav_item_inbox"-->
+          <!--android:icon="@drawable/home"/>-->
+
+    <item android:title="News"
+          android:id="@+id/nav_item_news"
+          android:icon="@drawable/newspaper"/>
+
+    <item android:title="Videos"
+          android:id="@+id/nav_item_videos"
+          android:icon="@drawable/video"/>
+
+    <item android:title="Marine Tech"
+        android:id="@+id/nav_item_tech"
+        android:icon="@drawable/settings"/>
+
+    <item android:title="Navigation"
+        android:id="@+id/nav_item_navigation"
+        android:icon="@drawable/binoculars"/>
+
+    <item android:title="Naval Arch"
+        android:id="@+id/nav_item_arch"
+        android:icon="@drawable/drawing"/>
+
+    <item android:title="Guidelines"
+        android:id="@+id/nav_item_guidelines"
+        android:icon="@drawable/book_open_page_variant"/>
+
+    <item android:title="Safety"
+        android:id="@+id/nav_item_safety"
+        android:icon="@drawable/hospital"/>
+
+    <item android:title="Careers"
+        android:id="@+id/nav_item_career"
+        android:icon="@drawable/school"/>
+
+    <item android:title="Life At Sea"
+        android:id="@+id/nav_item_life"
+        android:icon="@drawable/ferry"/>
+
+    <item android:title="Piracy"
+        android:id="@+id/nav_item_piracy"
+        android:icon="@drawable/skull"/>
+
+    <item android:title="Case Studies"
+        android:id="@+id/nav_item_case"
+        android:icon="@drawable/clipboard_text"/>
+
+
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:title="Saved Stories"
+                android:id="@+id/nav_item_saved"
+                android:icon="@drawable/save_offline"/>
+            <!--<item-->
+                <!--android:title="Free eBooks"-->
+                <!--android:id="@+id/nav_item_free"-->
+                <!--android:icon="@drawable/book"/>-->
+        </menu>
+    </item>
+
+    <group android:id="@+id/group_settings_id">
+
+        <item android:title="Disclaimer"
+              android:id="@+id/nav_item_disclaimer"
+              android:icon="@drawable/information"/>
+        <item android:title="Privacy Policy"
+            android:id="@+id/nav_item_privacy"
+             android:icon="@drawable/lock"/>
+        <item android:title="About Us"
+            android:id="@+id/nav_item_about"
+            android:icon="@drawable/account_multiple"/>
+        <item android:title="Contact Us"
+            android:id="@+id/nav_item_contact"
+            android:icon="@drawable/contact_mail"/>
+
+    </group>
+
+
+</menu>
